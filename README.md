@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RomanBurlaka78
-- 👀 I’m interested in ...FrontEnd developing and Testing
-- 🌱 I’m currently learning ...React, Python
+- 👀 I’m interested in Testing and programing
+- 🌱 I’m currently learning ... Jira, Test Rail, Python, Java , Selenium 
 
 
 <!---
