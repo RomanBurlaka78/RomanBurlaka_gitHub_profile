@@ -4,7 +4,7 @@
 
 ## I’m interesting Software Testing and programing
 
-## I’m good in Jira, Xray, Test Rail, DevTools, Postman, HTML, CSS, Javascript, Bootstrap, PHP
+## I’m good in Jira, Xray, Test Rail, DevTools, Postman, HTML, CSS, Javascript, Bootstrap, jQuery, PHP
 
 ## I’m currently learning  Java , Selenium 
 #
