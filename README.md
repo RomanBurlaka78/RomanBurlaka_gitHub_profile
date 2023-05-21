@@ -26,7 +26,7 @@
 ### Courses 
 [PHP](https://www.sololearn.com/certificates/CT-QC1L6HOI)<br>
 [Responsible Web Design](https://www.sololearn.com/certificates/CT-99L5UFV6)<br>
-[Web De deloper](https://www.sololearn.com/certificates/CT-U00RKGWP)<br>
+[Web Developer](https://www.sololearn.com/certificates/CT-U00RKGWP)<br>
 [HTML](https://www.sololearn.com/certificates/CC-WS2VMBCD)
 
 
