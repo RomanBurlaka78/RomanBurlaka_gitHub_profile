@@ -12,7 +12,6 @@
 
 
 ### Skills
-<hr>
 ![JIRA](https://img.shields.io/badge/-JIRA-0e098c?style=for-the-badge&logo=Jira)
 ![Test Rail](https://img.shields.io/badge/-TestRail-358c09?style=for-the-badge&logo=TestRail)
 ![Git](https://img.shields.io/badge/-Git/GitHub-000?style=for-the-badge&logo=GitHub)
