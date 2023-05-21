@@ -31,7 +31,7 @@
 
 
 ### Technical Books for  read
-![Software Testing ](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+![Software Testing(https://pwicherski.gitbook.io/testowanie-oprogramowania/]
 ![Sztuka testowania oprogramowania](https://helion.pl/ksiazki/sztuka-testowania-oprogramowania-glenford-j-myers-corey-sandler-tom-badgett-tod,artteo.htm?_ga=NC.9767046283-1587824464&abpar1=desktop&abpar2=170674.1746781.&abpcid=41&abpid=11&bb_coid=3068713&bb_id=3#format/d)
 ![Tester oprogramowania Przygotowanie do egzaminu z testowania oprogramowania](https://ksiegarnia.pwn.pl/Tester-oprogramowania-Przygotowanie-do-egzaminu-z-testowania-oprogramowania,84913544,p.html?abpid=11&abpcid=132&bb_id=3&bb_coid=5264186&abpar1=desktop&abpar2=275403.1746781.&p_action=3206410001&utm_source=a4b&utm_medium=referral&utm_campaign=lc-buybox-wszystkie&_ga=NC.2843809135-1587824507)
 
