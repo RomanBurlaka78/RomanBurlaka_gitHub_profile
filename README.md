@@ -12,6 +12,7 @@
 
 
 ### Skills
+<hr>
 ![JIRA](https://img.shields.io/badge/-JIRA-0e098c?style=for-the-badge&logo=Jira)
 ![Test Rail](https://img.shields.io/badge/-TestRail-358c09?style=for-the-badge&logo=TestRail)
 ![Git](https://img.shields.io/badge/-Git/GitHub-000?style=for-the-badge&logo=GitHub)
@@ -22,6 +23,20 @@
 ![JS](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
 ![JS](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP)
 ![Selenium](https://img.shields.io/badge/-Java(Selenium)-fff?style=for-the-badge&logo=Selenium)
+
+### Courses 
+
+### Technical Books read
+
+### Groups for knowledge gathering
+
+# Blogs read
+*![testerzy.pl](https://testerzy.pl/baza-wiedzy)
+
+
+### MY Projects
+! [Portfolio ] *(https://romanburlaka78.github.io/Portfolio-final/index.html)
+
 
 ### Follow me
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0e098c?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/roman-burlaka-b6180861)
