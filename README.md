@@ -42,7 +42,7 @@
 
 ### Groups for knowledge gathering
 [testerzy.pl](https://testerzy.pl/baza-wiedzy)
-testerka.pl](https://testerka.pl/)
+[testerka.pl](https://testerka.pl/)
 
 ### Blogs read
 [testelka.pl/blog](https://testelka.pl/blog/)<br>
