@@ -1,6 +1,6 @@
 ![Header](https://github.com/RomanBurlaka78/RomanBurlaka78/blob/main/assets/name%26surname.png)
 
-## Hi, I’m Roman Burlaka - [Junior Software Tester | Junior Automation Tester/QA](lhttps://www.linkedin.com/in/roman-burlaka-b6180861/)
+## Hi, I’m Roman Burlaka - [Junior Software Tester | Junior Automation Tester/QA](https://www.linkedin.com/in/roman-burlaka-b6180861/)
 
 ## I’m interesting Software Testing and programing
 
