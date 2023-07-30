@@ -13,15 +13,20 @@
 
 ### Skills
 ![JIRA](https://img.shields.io/badge/-JIRA-0e098c?style=for-the-badge&logo=Jira)
+
 ![Test Rail](https://img.shields.io/badge/-TestRail-358c09?style=for-the-badge&logo=TestRail)
 ![Git](https://img.shields.io/badge/-Git/GitHub-000?style=for-the-badge&logo=GitHub)
+
 ![Postman](https://img.shields.io/badge/-Postman-8c4809?style=for-the-badge&logo=PostMan)
 ![MySql](https://img.shields.io/badge/-MySql-0e019f?style=for-the-badge&logo=MySql)
+![Selenium](https://img.shields.io/badge/-Java(Selenium)-fff?style=for-the-badge&logo=Selenium)
+
+![Test Rail](https://img.shields.io/badge/-Cucumber-358c09?style=for-the-badge&logo=Cucumber)
 ![HTML](https://img.shields.io/badge/-HTML-D0D0D0?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-SCC-2FA5D9?style=for-the-badge&logo=CSS3)
 ![JS](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
 ![JS](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP)
-![Selenium](https://img.shields.io/badge/-Java(Selenium)-fff?style=for-the-badge&logo=Selenium)
+
 
 ### Courses 
 [PHP](https://www.sololearn.com/certificates/CT-QC1L6HOI)<br>
@@ -47,12 +52,15 @@
 ### Blogs read
 [testelka.pl/blog](https://testelka.pl/blog/)<br>
 [testerka.pl/category.blog](https://testerka.pl/category/blog/)
+***
 
-
-### MY Projects
+### My Projects
 [Portfolio](https://romanburlaka78.github.io/Portfolio-final/index.html)
- 
 
+[Project MrBuggy7](https://github.com/RomanBurlaka78/SDA_Project_final)
+
+[Project Selenium Web Driver (Java page_object_model + Cucumber)](https://github.com/RomanBurlaka78/Selenium_Java_Practice_bpb)
+***
 ### Follow me
 [linkedin](https://www.linkedin.com/in/roman-burlaka-b6180861)<br>
 <br>
