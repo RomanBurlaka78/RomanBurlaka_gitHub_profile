@@ -2,12 +2,13 @@
 
 ## Hi, I’m Roman Burlaka - [Junior Software Tester | Junior Automation Tester/QA](https://www.linkedin.com/in/roman-burlaka-b6180861/)
 
-## I’m interesting Software Testing and programing
+## I’m interesting Software Testing and programing. 
+## I have experience in testing web applications, I worked in a company that produces software for E-commerce. Currently, I am constantly expanding my knowledge and skills to meet the expectations of my future employer.  To get to know more deeply about the issues related to testing, I finished a practical testing course. Feel free to familiarize yourself with my repository, and if you have questions, I remain at your disposal.
 
-## I’m good in Jira, Xray, Test Rail, DevTools, Postman, HTML, CSS, Javascript.
+<!-- ## I’m good in Jira, Xray, Test Rail, DevTools, Postman, HTML, CSS, Javascript.
 ## Familiar with functional programing PHP and Python.
 
-## And  also familiar with  Java , Selenium Web Driver, Page Object Model, Cucumber.
+## And  also familiar with  Java , Selenium Web Driver, Page Object Model, Cucumber. -->
 
 ***
 
@@ -53,7 +54,7 @@
 ***
 
 ### Groups for knowledge gathering
-[testerzy.pl](https://testerzy.pl/baza-wiedzy)
+[testerzy.pl](https://testerzy.pl/baza-wiedzy)<br>
 [testerka.pl](https://testerka.pl/)
 
 ***
@@ -61,12 +62,13 @@
 ### Blogs read
 [testelka.pl/blog](https://testelka.pl/blog/)<br>
 [testerka.pl/category.blog](https://testerka.pl/category/blog/)
+
 ***
 
 ### My Projects
-[Portfolio](https://romanburlaka78.github.io/Portfolio-final/index.html)
+[Portfolio](https://romanburlaka78.github.io/Portfolio-final/index.html)<br>
 
-[Project MrBuggy7](https://github.com/RomanBurlaka78/SDA_Project_final)
+[AutomationExercise](https://github.com/RomanBurlaka78/Selenium_AutomationExercise/blob/page_object_model/README.md)
 
 [Selenium_Java_Practice_bpb (Selenium WD Java, page_object_model + Cucumber)](https://github.com/RomanBurlaka78/Selenium_Java_Practice_bpb)
 ***
